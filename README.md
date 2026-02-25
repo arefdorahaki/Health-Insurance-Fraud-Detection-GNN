@@ -15,7 +15,6 @@ The dataset includes:
 - Claims information
 - Insured individuals
 - Binary target indicating potential fraud
-- 
 ---
 
 ## 📌 Methodology
