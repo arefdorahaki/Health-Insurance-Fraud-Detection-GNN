@@ -9,13 +9,11 @@ The proposed approach models relationships between healthcare providers and insu
 
 ## 📂 Dataset
 
-This project uses a **public healthcare provider fraud dataset** from Kaggle.
+This project uses a **HEALTHCARE PROVIDER FRAUD DETECTION ANALYSIS** from Kaggle.
 
 The dataset includes:
 - Claims information
-- Provider details
 - Insured individuals
-- Aggregated features
 - Binary target indicating potential fraud
 - 
 ---
@@ -25,7 +23,6 @@ The dataset includes:
 - Construct a graph representing provider relationships based on shared insured individuals.
 - Extract relevant features from claims and providers.
 - Train a graph neural network model for fraud classification.
-- Evaluate performance against baseline models.
 
 ---
 
